@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\windowpro\\DoAnChuyenNganh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\views\\tongquan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:views\\tongquan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\views\\maytinh\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:views\\maytinh\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\controllers\\maytinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:controllers\\maytinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\views\\maytinh\\sua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:views\\maytinh\\sua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\views\\maytinh\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:views\\maytinh\\them.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\controllers\\tongquancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:controllers\\tongquancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:models\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|d:\\windowpro\\doanchuyennganh\\models\\tiem_netcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8463BC04-8063-425A-971A-4593941891C4}|DoAnChuyenNganh.csproj|solutionrelative:models\\tiem_netcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sua.cshtml",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Views\\MayTinh\\Sua.cshtml",
+              "RelativeDocumentMoniker": "Views\\MayTinh\\Sua.cshtml",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Views\\MayTinh\\Sua.cshtml",
+              "RelativeToolTip": "Views\\MayTinh\\Sua.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwv3UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T18:15:20.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Them.cshtml",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Views\\MayTinh\\Them.cshtml",
+              "RelativeDocumentMoniker": "Views\\MayTinh\\Them.cshtml",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Views\\MayTinh\\Them.cshtml",
+              "RelativeToolTip": "Views\\MayTinh\\Them.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwGMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T17:52:20.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Models\\Computer.cs",
+              "RelativeDocumentMoniker": "Models\\Computer.cs",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Models\\Computer.cs",
+              "RelativeToolTip": "Models\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:49:34.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Views\\MayTinh\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MayTinh\\Index.cshtml",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Views\\MayTinh\\Index.cshtml",
+              "RelativeToolTip": "Views\\MayTinh\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T17:45:24.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MayTinhController.cs",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Controllers\\MayTinhController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MayTinhController.cs",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Controllers\\MayTinhController.cs",
+              "RelativeToolTip": "Controllers\\MayTinhController.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAIwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:44:03.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T17:40:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T17:40:02.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:27:18.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Views\\Tongquan\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tongquan\\Index.cshtml",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Views\\Tongquan\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tongquan\\Index.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAH0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T17:25:29.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TongQuanController.cs",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Controllers\\TongQuanController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TongQuanController.cs",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Controllers\\TongQuanController.cs",
+              "RelativeToolTip": "Controllers\\TongQuanController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:24:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tiem_netContext.cs",
+              "DocumentMoniker": "D:\\windowpro\\DoAnChuyenNganh\\Models\\tiem_netContext.cs",
+              "RelativeDocumentMoniker": "Models\\tiem_netContext.cs",
+              "ToolTip": "D:\\windowpro\\DoAnChuyenNganh\\Models\\tiem_netContext.cs",
+              "RelativeToolTip": "Models\\tiem_netContext.cs",
+              "ViewState": "AgIAAN4CAAAAAAAAAAAkwAQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:23:10.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
